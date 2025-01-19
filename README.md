@@ -10,7 +10,7 @@ This project analyzes data from the American Energy Market Regulator (AEMR) to a
 - Support data-driven decision-making for regulatory and market improvements.
 
 ## Dataset
-- **Source**: [AEMO_SQL_Case_Study zip (courtesy Springboard)].
+- **Source**: [AEMO_SQL_Case_Study zip (courtesy Springboard Capstone Project)].
 - **Timeframe**: 2016-2017.
 - **Key Features**:
   - Outage frequency and duration by region.
